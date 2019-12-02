@@ -1,6 +1,6 @@
 export const environment = {
-  production: true,
+  production: false,
   baseHref: 'adresSerwera',
-  envName: 'PROD',
+  envName: 'MOCK',
   appVersion: '1.0.0'
 };
